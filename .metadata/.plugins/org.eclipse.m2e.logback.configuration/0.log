@@ -32,3 +32,16 @@
 2019-03-09 15:43:42,039 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-03-09 15:43:42,048 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-09 15:43:42,049 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OneDrive\POC\micro services\spring-cloud-config-server\src\test\resources
+2019-03-09 15:47:07,145 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-09 15:47:07,145 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-09 15:47:07,146 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-09 15:47:07,153 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-09 15:47:07,154 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OneDrive\POC\micro services\spring-cloud-config-server\src\test\resources
+2019-03-09 15:47:52,429 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-03-09 15:47:59,228 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\OneDrive\POC\micro services\spring-cloud-config-server
+2019-03-09 15:47:59,228 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2019-03-09 15:49:42,252 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-09 15:49:42,252 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-09 15:49:42,252 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-09 15:49:42,260 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-09 15:49:42,264 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OneDrive\POC\micro services\spring-cloud-config-server\src\test\resources
