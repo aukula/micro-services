@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.aukula.zuul.springbootzuulgatewayproxy.filters.PreFilter"/>
+<fullyQualifiedTypeName name="com.aukula.zuul.springbootzuulgatewayproxy.filters.PostFilter"/>
+<fullyQualifiedTypeName name="com.aukula.zuul.springbootzuulgatewayproxy.filters.ErrorFilter"/>
+<fullyQualifiedTypeName name="com.aukula.zuul.springbootzuulgatewayproxy.filters.RouteFilter"/>
+</qualifiedTypeNameHistroy>
